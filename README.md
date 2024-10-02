@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ttegano a software Engineer!
+- 👋 Hi, I’m @Ttegano, a software Engineer!
 -  I’m interested in everything software and security
 
 
