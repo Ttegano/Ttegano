@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ttegano, a software Engineer!
--  I’m interested in everything software and security
+- 👋 Hi, I’m @Ttegano, a software Engineer.
+-  I read software documentation for fun.
 
 
 <!---
